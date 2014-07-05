@@ -42,4 +42,5 @@ public class MainActivity extends SwipeListViewActivity {
 				Toast.LENGTH_SHORT).show();
 	}
 
+	// Cherry Pic
 }
