@@ -22,15 +22,6 @@ public class MainActivity extends SwipeListViewActivity {
 						"Item 2", "Item 2", "Item 3", "Item 4", "Item 5" });
 		mListView.setAdapter(mAdapter);
 		
-		
-		// Added comment and comment 
-		// Added another comment
-		// Added another comment
-		// Added another comment
-		
-		
-		
-		//Added final comment
 	}
 
 	@Override
@@ -51,6 +42,4 @@ public class MainActivity extends SwipeListViewActivity {
 				Toast.LENGTH_SHORT).show();
 	}
 
-	//Added CHERRY PICK
-	
 }
