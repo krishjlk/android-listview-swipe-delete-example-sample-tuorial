@@ -31,9 +31,6 @@ public class MainActivity extends SwipeListViewActivity {
 		
 		
 		//Added final comment
-		
-		// Added one moresb
-		
 	}
 
 	@Override
@@ -54,4 +51,6 @@ public class MainActivity extends SwipeListViewActivity {
 				Toast.LENGTH_SHORT).show();
 	}
 
+	//Added CHERRY PICK
+	
 }
