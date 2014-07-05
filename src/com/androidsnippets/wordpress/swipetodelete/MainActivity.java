@@ -43,7 +43,4 @@ public class MainActivity extends SwipeListViewActivity {
 	}
 
 	// Cherry Pic
-	
-	
-	// cherry pick 2
 }
