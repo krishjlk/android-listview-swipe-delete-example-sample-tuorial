@@ -11,8 +11,6 @@ public class MainActivity extends SwipeListViewActivity {
 	private ListView mListView;
 	private ArrayAdapter<String> mAdapter;
 
-	// Added another comment
-	
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -25,7 +23,7 @@ public class MainActivity extends SwipeListViewActivity {
 		mListView.setAdapter(mAdapter);
 		
 		
-		// Added comment
+		// Added comment and comment 
 		
 	}
 
