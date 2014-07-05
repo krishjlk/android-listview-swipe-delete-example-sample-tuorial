@@ -20,6 +20,10 @@ public class MainActivity extends SwipeListViewActivity {
 				android.R.layout.simple_list_item_1, new String[] { "Item 1",
 						"Item 2", "Item 2", "Item 3", "Item 4", "Item 5" });
 		mListView.setAdapter(mAdapter);
+		
+		
+		// Added comment
+		
 	}
 
 	@Override
