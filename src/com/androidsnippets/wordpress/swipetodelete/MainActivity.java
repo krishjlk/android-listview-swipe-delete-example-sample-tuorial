@@ -24,6 +24,7 @@ public class MainActivity extends SwipeListViewActivity {
 		
 		
 		// Added comment and comment 
+		// Added another comment
 		
 	}
 
