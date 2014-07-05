@@ -11,6 +11,9 @@ public class MainActivity extends SwipeListViewActivity {
 	private ListView mListView;
 	private ArrayAdapter<String> mAdapter;
 
+	// Added another comment
+	
+	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
