@@ -8,6 +8,8 @@ import android.widget.Toast;
 
 public class MainActivity extends SwipeListViewActivity {
 
+	// Made changes in slave
+	
 	private ListView mListView;
 	private ArrayAdapter<String> mAdapter;
 
